@@ -2,13 +2,16 @@ import React from 'react';
 import '../styles.css'
 
 
-const Child = () => {
+const Child = (props) => {
 
 
     return (
         <div className='Child'>
             <h1 className='text-center'>Child component</h1>
-            <button className='text-center'>CLICK</button>
+            <div className='wrap-center'>
+            <button onClick={()=>props.setHeader('new header from child')}>CLICK</button>
+            </div>
+
         </div>
 
     )
