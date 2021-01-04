@@ -9,7 +9,7 @@ const Child = (props) => {
         <div className='Child'>
             <h1 className='text-center'>Child component</h1>
             <div className='wrap-center'>
-            <button onClick={()=>props.setHeader('new header from child')}>CLICK</button>
+            <button onClick={()=>props.setHeader('new header from child')}>Change parent header from child</button>
             </div>
 
         </div>

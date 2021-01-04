@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/props-from-child-to-parent-component/static/css/main.1bc80887.chunk.css",
+    "main.js": "/props-from-child-to-parent-component/static/js/main.8fbedec4.chunk.js",
+    "main.js.map": "/props-from-child-to-parent-component/static/js/main.8fbedec4.chunk.js.map",
+    "runtime-main.js": "/props-from-child-to-parent-component/static/js/runtime-main.b9258e42.js",
+    "runtime-main.js.map": "/props-from-child-to-parent-component/static/js/runtime-main.b9258e42.js.map",
+    "static/js/2.f6bce383.chunk.js": "/props-from-child-to-parent-component/static/js/2.f6bce383.chunk.js",
+    "static/js/2.f6bce383.chunk.js.map": "/props-from-child-to-parent-component/static/js/2.f6bce383.chunk.js.map",
+    "index.html": "/props-from-child-to-parent-component/index.html",
+    "static/css/main.1bc80887.chunk.css.map": "/props-from-child-to-parent-component/static/css/main.1bc80887.chunk.css.map",
+    "static/js/2.f6bce383.chunk.js.LICENSE.txt": "/props-from-child-to-parent-component/static/js/2.f6bce383.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9258e42.js",
+    "static/js/2.f6bce383.chunk.js",
+    "static/css/main.1bc80887.chunk.css",
+    "static/js/main.8fbedec4.chunk.js"
+  ]
+}
